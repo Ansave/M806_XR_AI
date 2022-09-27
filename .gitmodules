@@ -1,0 +1,3 @@
+[submodule "AI_Homework/numpy-100"]
+	path = AI_Homework/numpy-100
+	url = https://github.com/rougier/numpy-100.git
